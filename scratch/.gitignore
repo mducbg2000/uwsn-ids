@@ -4,3 +4,4 @@
 
 !subdir/
 !CMakeLists.txt
+!**.cc
